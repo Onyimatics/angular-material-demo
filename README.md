@@ -1,6 +1,9 @@
-# AngularMaterialDemo
+# Angular Material Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
+
+## Heroku Deployment
+[Angular-Material-Demo](https://angular-material-demo-onyi.herokuapp.com/)
 
 ## Development server
 
